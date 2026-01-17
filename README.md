@@ -1,2 +1,27 @@
-# Python-mini-project
-A to-do-app for beginners using Python 
+# 📝 Mini To-Do App
+
+A simple and lightweight **To-Do application** built in **Python** to manage your daily tasks easily. Perfect for beginners to practice Python file handling and basic CLI apps.
+
+---
+
+## 🚀 Features
+
+- Add tasks with a description
+- View all tasks
+- Mark tasks as completed
+- Delete tasks
+- Save tasks 
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3.x
+
+---
+
+## 💻 Installation
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/Shehaan73/Python-mini-project.git
