@@ -6,9 +6,8 @@ A simple and lightweight **To-Do application** built in **Python** to manage you
 
 ## 🚀 Features
 
-- Add tasks with a description
+- Add tasks 
 - View all tasks
-- Mark tasks as completed
 - Delete tasks
 - Save tasks 
 
